@@ -13,3 +13,8 @@ I choose Paris as my favourite place because it is know for it's **pasteries** a
     1. Get boardng pass
     1. Go through TSA
     1. Board flight
+
+## Items that should be taken on journey
+* Id
+* Smart phone or a camera
+* Money
