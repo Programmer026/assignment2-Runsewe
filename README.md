@@ -20,3 +20,14 @@ I choose Paris as my favourite place because it is know for it's **pasteries** a
 * Money
 
 My [About Me Page](AboutMe.md)
+
+---
+
+## Food and Drinks Recommendations
+
+| Food/drink | Location | Price |
+| ---| ---| ---: |
+| Korean Hotdogs | machi machi, nyc  | 5 |
+| Naked pinacolada | Walmart or most Grocery store | 6.25 |
+| Chicken Alfredo Pasta | Olive Garden or Cheesecake Factory | 5.99 |
+| Black milk tea with Boba | Any Bubble tea store | 6.25 |
