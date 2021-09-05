@@ -25,9 +25,18 @@ My [About Me Page](AboutMe.md)
 
 ## Food and Drinks Recommendations
 
+I have added some of my favorite foods, location and the prices in the table below
+
 | Food/drink | Location | Price |
 | ---| ---| ---: |
 | Korean Hotdogs | machi machi, nyc  | 5 |
 | Naked pinacolada | Walmart or most Grocery store | 6.25 |
 | Chicken Alfredo Pasta | Olive Garden or Cheesecake Factory | 5.99 |
 | Black milk tea with Boba | Any Bubble tea store | 6.25 |
+
+---
+## Pithy Quotes
+
+>"The way is see it if you want the rainbow, you gotta put up with the rain" - ***Dolly Parton***
+
+>"Many of life's failure are people who did not realize how close they were to sucess when they gave up" - ***Thomas A. Edison***
